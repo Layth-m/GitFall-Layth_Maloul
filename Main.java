@@ -7,7 +7,7 @@ public Main(){
 		studentNames.add("Peter");
 		studentNames.add("Sierra");
 		studentNames.add("Daron");
-		studentNames.add("");
+		studentNames.add("Layth");
 		studentNames.add("Abdullah");
 		studentNames.add("Savitha");
 		studentNames.add("");
